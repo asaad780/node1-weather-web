@@ -1,6 +1,6 @@
 
 
-console.log("it has been loaded")
+
 
 
 const weatherform= document.querySelector("form")
